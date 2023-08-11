@@ -7,7 +7,7 @@ import CakeShop from "./mycomponent/cakeshopwithcontext";
 function App() {
   return (
     <div className= "container">
-      {/* <Dairycounter/>
+      <Dairycounter/>
       <br />
       <br/>
       <hr/>
@@ -16,8 +16,8 @@ function App() {
       <Dairycounter2/>
       <br />
       <br/>
- */}
-      <CakeShop/>
+ 
+    
     </div>
   );
 }
